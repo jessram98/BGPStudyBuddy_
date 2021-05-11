@@ -61,6 +61,7 @@ The paths that are now black in the graph are the paths that were chosen by each
 In the left pane, there is also a more detailed text-based version of the results. It contains information about each node. At the bottom of these results is a log showing the order of events that led up to the final result. 
 
 The log should look like this: 
+
 ![log](https://github.com/jessram98/BGPStudyBuddy_/blob/e94496ba0f711a22cec44a31f5a5fc34358a225f/SimulationScreenWithResults.png)
 
 You can keep putting new destination node values to see the different outcomes. Or you can go back and edit the network or completely start over by clicking one of the buttons in the left pane.
