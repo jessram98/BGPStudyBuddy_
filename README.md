@@ -44,7 +44,7 @@ Once all nodes and links have been added and you have clicked and dragged each n
 Finally, click 'I'm done setting up' to finalize your network and go to the simulation screen.
 
 # Simulation screen
-Once you are done setting up the network and reach the simulation screen, should see your graph has transferred over to this screen, except the nodes are no longer click-and-draggable. It should look something like this:
+Once you are done setting up the network and reach the simulation screen, you should see your graph has transferred over to this screen, except the nodes are no longer click-and-draggable. It should look something like this:
 ![sim screen](https://github.com/jessram98/BGPStudyBuddy_/blob/a28a6e7c3b04ae61457917a6487ef3fdfb34e50a/SimulationScreenInit.png)
 
 To start a simulation, enter the destination node name into the text field and click simulate. 
