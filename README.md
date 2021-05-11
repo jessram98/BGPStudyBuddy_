@@ -23,11 +23,11 @@ The network setup page looks like this:
 
 The pane on the left is where you can input network information. The pane on the right is where the graph visualiation appears.
 
-To add a node, type the node name in the node name text field above the add node button. This name MUST be unique to names of any nodes already in the network. Once the name is in the text box, click add Node. The node is now in the network and should appear in the right pane. You can click the node around.
+To add a node, type the node name in the node name text field above the add node button. This name MUST be unique to names of any nodes already in the network. Once the name is in the text box, click add Node. The node is now in the network and should appear in the right pane. You can click and drag the node to move it around.
 
-To add multiple nodes at once, input node names separated by one space each. It must be in this format to work.
+To add multiple nodes at once, input each node name separated by one space each. It must be in this format to work.
 
-Follow the same procedure for delete node.
+Follow the same procedure for delete node, except use the delete node text field and delete node button.
 
 To add peer links, write the node names in the peer link text field in the format displayed. The peer node names must be separated by a single equal sign and it MUST have spaces between the equal sign and the peer node names. For example, this is how you would add a peer link between nodes v and x:
 
@@ -35,11 +35,13 @@ To add peer links, write the node names in the peer link text field in the forma
     
 To add p-c links, follow the same procedure except instead of putting an equal sign between the provider and customer node, put an arrow like this one: ->  The provider node should be on the left side and the customer node should be on the right side.
 
+NOTE: In order for simulator to work, there must be no directed cycles in your final graph representation.
+
 Once all nodes and links have been added and you have clicked and dragged each node into the positions you would like, the network set up screen should look something like this:
 
 ![network screen 2](https://github.com/jessram98/BGPStudyBuddy_/blob/e94496ba0f711a22cec44a31f5a5fc34358a225f/NetworkSetupScreenWithNetwork.png)
 
-Finally, click I'm done setting up to finalize your network.
+Finally, click 'I'm done setting up' to finalize your network and go to the simulation screen.
 
 # Simulation screen
 Once you are done setting up the network and reach the simulation screen, should see your graph has transferred over to this screen, except the nodes are no longer click-and-draggable. It should look something like this:
