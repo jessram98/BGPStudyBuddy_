@@ -12,7 +12,7 @@ In order to start the simulator, run the following command:
 
 You should see a window pop up with the welcome screen displayed. It should look like this:
 
-![Image of ](https://drive.google.com/file/d/16zjRAK38c9fAHcqlERH-GD_cG-sEiOhh/view?usp=sharing)
+![Image of WelcomeScreen](https://github.com/jessram98/BGPStudyBuddy_/blob/e6a8f3b0fb48085f84937f1a74d667c1bfca934d/WelcomeScreen.png)
 
 Click the 'Let's Get Started!' button at the bottom of the page to get started and enter the network setup page.
 
